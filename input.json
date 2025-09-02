@@ -1,0 +1,13 @@
+[
+  {
+    "title": "CalcMaster 3000",
+    "desc": "CalcMaster 3000 is a powerful multi-mode number crunching engine built with Python. Designed for data nerds, finance students, and math teachers alike, this tool provides both terminal-based and programmatic interfaces.\n\n### 🚀 Key Features:\n- Basic operations: addition, subtraction, multiplication, division\n- Advanced math: square roots, exponentiation, logarithms (base e/10/x)\n- Statistical functions: mean, median, mode, standard deviation\n- Number theory tools: prime check, factorization, LCM, GCD\n- Scientific mode: angle conversions, trigonometric functions (sin, cos, tan)\n- Batch calculator: load hundreds of operations from `.txt` or `.csv`\n\nCalcMaster logs all your calculations in a daily `.log` file with timestamps. It includes full error handling, color-coded terminal output, and verbose explanations in 'learning mode'.\n\nThis is more than a calculator — it's a personal math assistant. Future versions will include graph plotting, matrix operations, and symbolic algebra via SymPy.",
+    "link": "https://github.com/boss/calcmaster",
+    "demo": "https://calcmaster-demo.vercel.app",
+    "image": "https://raw.githubusercontent.com/boss/calcmaster/main/docs/banner.png",
+    "badge": "https://img.shields.io/badge/status-stable-brightgreen",
+    "tags": ["Python", "CLI", "Math", "Scientific", "Educational"],
+    "type": "Terminal App",
+    "date": "2025-08-31"
+  }
+]
