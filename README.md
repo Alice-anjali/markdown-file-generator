@@ -75,17 +75,17 @@ CLI that auto-generates README.md for portfolios.
 
 ## 1. Clone the repo
 
-git clone https://github.com/your-username/md-generator
-cd md-generator
+- git clone https://github.com/your-username/md-generator
+- cd md-generator
 
 ## 2. Create your input.json file
 
-You can copy from the sample above or add as many projects as you like.
+- You can copy from the sample above or add as many projects as you like.
 
 ## 3. Run the generator
 
-python md_generator.py
+- python md_generator.py
 
 ## 4. Check the output
 
-A clean outputREADME.md file will be generated in the same folder.
+- A clean outputREADME.md file will be generated in the same folder.
